@@ -1,0 +1,524 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commission of Justiciary for securing the peace of the Highlands</title>
+            <author>Scotland. Sovereign (1694-1702 : William II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02300</idno>
+            <idno type="STC">Wing C5554</idno>
+            <idno type="STC">ESTC R171462</idno>
+            <idno type="EEBO-CITATION">52528779</idno>
+            <idno type="OCLC">ocm 52528779</idno>
+            <idno type="VID">178745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178745)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2769:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commission of Justiciary for securing the peace of the Highlands</title>
+                  <author>Scotland. Sovereign (1694-1702 : William II)</author>
+               </titleStmt>
+               <extent>4, 6-7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Heirs and Successors of Andrew Anderson, Printer to the King's most Excellent Majestie,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Given at Our Court at Kensingtoun the thirty day of March 1697, and of Our Reign the eight year.</note>
+                  <note>Pages 5-6 misnumbered 6-7 respectively.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745 --  Early works to 1800.</term>
+               <term>Highlands (Scotland) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:178745:1" rendition="simple:additions"/>
+            <head>
+               <hi>COMMISSION OF JUSTICIARY</hi> For Securing the Peace of the
+<hi>Highlands.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>WILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain,
+France</hi> and <hi>Ireland,</hi> Defender of the Faith;</signed>
+               <salute>To all and ſundry to
+whoſe knowledge theſe preſents ſhall come, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as, We
+for puniſhing and repreſ<g ref="char:EOLhyphen"/>ſing of Thifts, Depredations, Robberies,
+Sornings and the like Crimes and Diſorders within the Bounds of the
+<hi>Highlands,</hi> and for the better ſettling of Juſtice, Peace and good
+Order there, and in all the neighbouring Bounds, ſpecially within the Shires
+of <hi>Cathenes, Sutherland, Roſs, Inverneſs, Cromartie, Nairn, Elgine,
+Bamff, Aberdeen, Kincardine, Forfar, Perth, Stirling, Dumbartoun, Argile,
+Tarbat, Bute;</hi> and others ad<g ref="char:EOLhyphen"/>jacent: Which Shires are to be divided into
+three Diſtricts, in manner af<g ref="char:EOLhyphen"/>ter-mentioned, have thought fit, by vertue of
+Our Prerogative Royal, to grant the Commiſſion of Juſticiary following,
+to the perſons after-named, to whom alſo the Earl of <hi>Argile</hi> and
+others having heretable Rights of Juſtici<g ref="char:EOLhyphen"/>ary, are to grant their
+Commiſſions at leaſt to ſo many of them who are wil<g ref="char:EOLhyphen"/>ling to act by
+vertue of the ſame, and that for the whole Bounds within their ſaid
+reſpective heretable Juſticiaries, in the terms of the ſeveral Acts of
+Our current Parliament, relating to the Juſticiary-Court in the
+<hi>Highlands;</hi> And which Commiſſions are to contain all the
+neceſſary and uſual Powers, that the ſaids Commiſſioners being of
+Conſent fully impowered, may Act and pro<g ref="char:EOLhyphen"/>ceed more effectually for
+puniſhing &amp; repreſſing the Crimes above-mentioned. <hi>Therefore</hi>
+We do hereby grant full Power, Authority, and Commiſſion, expreſs Bidding
+and Charge to Our Juſtice-General, Juſtice-Clerk, and Lords
+Com<g ref="char:EOLhyphen"/>miſſioners of Juſticiary, <hi>John</hi> Earl of <hi>Tullibardine</hi>
+Our principal Secretary of State, <hi>Archibald</hi> Earl of <hi>Argile,</hi>
+the Earl of <hi>Marr,</hi> the Earl of <hi>Sutherland,</hi> the Earl of
+<hi>Finlater,</hi> the Earl of Buchan, the Earl of <hi>Strathmore,</hi> the
+Earl of <hi>Kin<g ref="char:EOLhyphen"/>tore,</hi> the Viſcount of <hi>Tarbat,</hi> the Lord
+<hi>Strathnaver,</hi> Lord <hi>James Murray,</hi> the Lord <hi>Glenurchy,</hi>
+the Lord <hi>Saltoun,</hi> the Lord <hi>Rae,</hi> the Lord <hi>Ruthven,</hi>
+the Lord <hi>Duffus,</hi> Sir <hi>James Ogilvie</hi> Principal Secretary of
+State, the Maſter of <hi>Forbes,</hi> Sir <hi>James Scougill</hi> of
+<hi>Whitehill,</hi> Sir <hi>Patrick Ogilvie</hi> of <hi>Boyne, Ludovick
+Grant</hi> of that Ilk, <hi>William Dunbar</hi> of <hi>Durn, Alexander
+Ogilvie</hi> of <hi>Forglen, John Ogilvie</hi> of <hi>Kempeairn, Alexander
+Hay</hi> of <hi>Ardenbath</hi> elder, <hi>Nicolas Dumbar</hi> of
+<hi>Castle<g ref="char:EOLhyphen"/>field, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Grant</hi> of <hi>Belnatoun</hi> elder,
+Mr. <hi>Francis Grant</hi> of <hi>Belnatoun</hi> youn<g ref="char:EOLhyphen"/>ger, <hi>Alexander
+Leſlie</hi> of <hi>Kininvie,</hi> Sir <hi>Thomas Burnet</hi> of
+<hi>Leyes,</hi> Sir <hi>George Sin<g ref="char:EOLhyphen"/>clair</hi> of <hi>Clyth, William Dumbar</hi>
+of <hi>Hempries,</hi> Mr. <hi>John Campbel</hi> Com<g ref="char:EOLhyphen"/>miſſar 
+<pb n="2" facs="tcp:178745:2"/>of <hi>Caithneſs,</hi> Sir <hi>Adam Gordon</hi> of
+<hi>Dalfolly,</hi> Mr. <hi>John Gordon</hi> of <hi>Carrell, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+Dumbar</hi> of <hi>Sydery, David Roſs</hi> of <hi>Balnagowan,
+<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Monro</hi> of <hi>Fowlis, Hugh Monro</hi> of
+<hi>Tennuſh,</hi> Sir <hi>Alexander Mackenzie</hi> of <hi>Cowl,</hi> Sir
+<hi>Donald Bain</hi> of <hi>Tulloch, George Monro</hi> of <hi>New-more,</hi>
+Mr. <hi>Simon Mackenzie</hi> of <hi>Tarradell, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+Mackintoſh</hi> of that Ilk, <hi>Duncan Forbes</hi> of <hi>Colloden,
+Alexander Chiſholm</hi> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>George Cuthbert</hi> of
+<hi>Castle-hill,</hi> Mr. <hi>David Polſon</hi> of <hi>Kinmyles,</hi> Mr.
+<hi>Alexander Roſs</hi> of <hi>Clava, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Robertſon</hi> of
+<hi>Inches <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Campbel</hi> of <hi>Calder</hi> younger,
+<hi>James Frazer</hi> of <hi>Relict <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Frazer</hi> of
+<hi>Balnamain, David Broddy</hi> of <hi>Lethem, David Cuthbert</hi>
+Sheriff-De<g ref="char:EOLhyphen"/>pute of <hi>Nairn, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Broddy</hi> of that Ilk,
+<hi>George Broddy</hi> of <hi>Aſlisk, Lu<g ref="char:EOLhyphen"/>dovick Dumbar</hi> of <hi>Grange,
+Robert Dumbar</hi> of <hi>Dumfaill, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Innes</hi> younger of
+that Ilk, <hi>William Duff</hi> of <hi>Dipple, James Grant</hi> of
+<hi>Galloway, John Grant</hi> of <hi>Clay-furrs, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Grant</hi>
+of <hi>Arntilly, Alexander Duff</hi> of <hi>Braco,</hi> Sir <hi>James
+Abercrombie</hi> of <hi>Birkenbog, John Anderſon</hi> of <hi>Westertoun,
+Alexan<g ref="char:EOLhyphen"/>der Duff</hi> of <hi>Drummuir, Charles Gordon</hi> of
+<hi>Glengarrick,</hi> Sir <hi>John Forbes</hi> of <hi>Craigievar, Arthur
+Forbes</hi> younger of <hi>Eicht, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Leſlie</hi> of
+<hi>Kincraigie</hi> Sir <hi>James Gordon</hi> of <hi>Leſmore, Archibald
+Forbes</hi> of <hi>Lickliehead, Arthur Forbes</hi> of <hi>Auchintoul,</hi> Sir
+<hi>Robert Gordon</hi> of <hi>Gordonstoun, Thomas Hay</hi> of
+<hi>Balhouſie,</hi> Lieutenant Collonel <hi>John Areskin,</hi> Sir
+<hi>William Stirling</hi> of <hi>Airdoch,</hi> Sir <hi>Thomas Murray</hi> of
+<hi>Glendoick, James Hepburn</hi> of <hi>Menſtrie, Adam Drummond</hi> of
+<hi>Meggins, Robert Stuart</hi> of <hi>Ardvorleich</hi> elder, <hi>Stuart of
+Ardvorleich</hi> younger, <hi>James Ram<g ref="char:EOLhyphen"/>ſay</hi> of <hi>Bamff,</hi> Mr.
+<hi>Leonard Robertſon</hi> of <hi>Straloch, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mercer</hi> of
+<hi>Clavadge, James Menzies</hi> of <hi>Culdair, John Cunninghame</hi> of
+<hi>Baldalloch, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cunninghame</hi> younger of <hi>Buquhan,
+William Stirling</hi> of <hi>Harbertſhire, Alexander Monro</hi> of
+<hi>Bearcrofts,</hi> Sir <hi>Humphry Colquhoune</hi> of <hi>Luſs, John
+Mckfarland</hi> of <hi>Erchor</hi> younger, <hi>Patrick Murray</hi> of
+<hi>Dullery, John Blair</hi> of <hi>Corbs, James Herron</hi> of <hi>Callie,
+Alexander Robertſon</hi> of <hi>Faſcally,</hi> Captain <hi>James
+Menzies</hi> Tutor to the Laird of <hi>Weymes. Menzies</hi> of <hi>Sluan,
+Lachlane Mackintoſh</hi> Tutor of <hi>Dalmungo, Craigie</hi> of
+<hi>Dumbarnie</hi> younger, <hi>Cree</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Provoſt of
+<hi>Perth, Colin Campbel</hi> of <hi>Lochland, James Drummond</hi> of
+<hi>Comry,</hi> Mr. <hi>William Murray</hi> of <hi>Arbeny, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+Campbel</hi> of <hi>Balgerſho</hi> elder, <hi>Alexander Robertſon</hi> of
+<hi>Craig</hi> Baillie of <hi>Perth,</hi> Sir <hi>Colin Campbel</hi> of
+<hi>Ardkindlas,</hi> Sir <hi>Dun<g ref="char:EOLhyphen"/>can Campbel of Auchinbreck,</hi> Sir <hi>John
+Campbel</hi> of <hi>Carrick, Archibald Campbel</hi> of <hi>Inneraul, Alexander
+Campbel</hi> of <hi>Balcardine, Alexander Campbel</hi> of <hi>Lochnell, Donald
+Campbel</hi> Baillie of <hi>Mackairn, Alexander Campbel</hi> of <hi>Kilmartoun,
+George Campbel</hi> of <hi>Craignes</hi> younger, <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+Cameron of Glendechry,</hi> Sir <hi>John Hill</hi> Governour of
+<hi>Fort-William,</hi> &amp; Lieutenant-Collonel <hi>Forbes,</hi> or the Deputy
+Governour thereof, conjunctly and ſeverally, to purſue, Follow, take &amp;
+apprehend Impriſon, and preſent to Juſtice all perſons within the
+following Shires, of <hi>Caitneſs, Southerland, Roſs, Inverneſs,
+Cromartie, Nairn, Elgine, Bamff, Aberdeen, Kincardine, Forfar, Perth, Stirling,
+Dumbritan. Argile, Tarbat, Bute,</hi> and others Adjacent, Guilty or
+Suſpected to be guilty of Thift, Reſett of Thift, Robries, Depredations,
+Sornings, Thigging, exacting of Black-mail or any other Oppreſſions,
+Bangeſteries, maſterful or minacing Exactions, com<g ref="char:EOLhyphen"/>muning with
+intercommuned Perſons, Man-ſlaughters, Murders, harbouring or Reſetting
+of Out-laws, the tranſgreſſors of the Law concerning the Clan
+<hi>Gregor,</hi> hounding-out or Ratihabiting Thiefs, Robbers, Sorners, and
+o<g ref="char:EOLhyphen"/>thers guilty of the foreſaid Crimes, and ſecuring the Peace of the
+<hi>High-lands,</hi> and incouragement of Vertue, and learning and ſettling
+Induſtry amongſt them And in caſe any Perſons within the bounds
+foreſaid cannot be apprehended and preſented to Juſtice, We hereby give
+Warrand to the ſaids Commiſſioners or any one or two of them to iſſue
+forth Precepts, direct to Sheriffs, Officers, Stewarts, Baillzies, Mayors, or
+Conſtables, to charge them to compear at the firſt Juſtice-court before
+the ſaids Commiſſioners, or any five of them who are hereby declared to
+be a <hi>Quorum,</hi> And where there is not already a ſufficient num<g ref="char:EOLhyphen"/>ber 
+<pb n="3" facs="tcp:178745:3"/>of Sheriff-Officers and other Officers with Power to the
+ſaids Commiſſi<g ref="char:EOLhyphen"/>oners, or any two of them to appoint Officials within the
+ſeveral Paroches of the ſaids Bounds, which Officials are to have the
+ſame Power, given to Con<g ref="char:EOLhyphen"/>ſtables by the Act of Parliament 1661, And who are
+to give an account on all occaſions to the next adjacent Commiſſioners,
+and to cite before them all Perſons within the ſaids Bounds, <hi>Malae
+famae,</hi> and ſuſpected of Thift, corro<g ref="char:EOLhyphen"/>ſpondents with Theives or of
+any of the Crimes above-mentioned, that they may be ſecured and tryed by an
+Aſſize and be either purged by an Aſſize or puniſhed, and farder if
+need require to find ſufficient Caution, and to declare that a Citation to be
+uſed at the Mercat-croſs of the head Burgh of the Shire where the have
+moſt frequently haunted, againſt the ſaid Thieves, their Reſet<g ref="char:EOLhyphen"/>ters and
+others guilty of the Crimes foreſaid, who have no dwelling-houſes to
+compear-before the ſaids Commiſſioners, ſhall be als ſufficient as if
+they were perſonally Charged in reſpect of the uncertainty of their
+Reſidence and difficul<g ref="char:EOLhyphen"/>ty of acceſs to them, and where they have Places of
+Reſidence they are to be Cited perſonally or at their dwelling places, if
+there be <hi>tutus acceſsus</hi> and if not at the head Burgh of the Shire
+where they dwell, with Power to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners or any
+<hi>Quorum</hi> of them, at their ſeveral meettings, to make choice of their
+own Preſident to continue only for that meeting and to fence &amp; hold
+Courts of Juſtice, and to creat Fiſcals Serjeants, Dempſters and all
+other mem<g ref="char:EOLhyphen"/>bers of Court, as alſo to regulate the pryces &amp; correct the
+abuſes of their Clerks or deprive them in caſe of malverſations, as
+likeways with power to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners or any <hi>Quorum</hi> of
+them to cite witneſſes, to call perſons to paſs upon In<g ref="char:EOLhyphen"/>queſt, out of
+any ſix Paroches adjacent to the place where they hold their Courts; Abſent
+witneſſes &amp; Aſſizers to un-law, &amp; americat, the un-laws &amp;
+americaments to uplift and exact to be applyed by the ſaid Commiſſioners,
+for defraying ſome part of the Expences, &amp; the Fees of the other members
+of Court; And in the ſaid Court to call the ſaid perſons, either cited or
+impriſoned as guilty, or ſuſpected to be guilty of the foreſaid Crimes,
+or any of them; and to declare ſuch as are abſent Fugitives from the Laws,
+and to iſſue forth their precepts for denouncing them Rebels. and putting
+them to the Horn. and to intercommun according to Law, and the practice in
+ſuch caſes and ordaining all their Move<g ref="char:EOLhyphen"/>able goods to be Eſcheat, and in
+brought for Our uſe for their contempt and diſobedience, &amp; ſuch as
+ſhall compear and be brought before them as priſoners to put them to tryal,
+and the knowledge of an Aſſize, and according as they ſhal be found
+Innocent or Guilty, that they cauſe Juſtice be done upon them, conform to
+the Laws and practiſe of the Kingdom; provideing always that when any
+Landed-man is cited or brought before the ſaid Commiſſioners, as guilty
+or ſuſ<g ref="char:EOLhyphen"/>pected to be guilty of Thift, or the reſett of Thift, if he
+compear and be put to the knowledge of an inqueſt, the ſaid
+Commiſſioners or ſuch of them as ſhall happen to ſit for the time
+ſhall before pronouncing of Sentence condemnatory either as to Life or Limb,
+be obliedged to report the ſtate of the proceſs to the Lords of Our Privy
+Council, that they may give ſuch directions therein as they ſhal think fit,
+but if they compear not and be declared Fugitives that their-moveables be
+intrometted with and Eſcheated as other Fugitives, And we do hereby give
+Power and warrand to the ſaid reſpective Commiſſioners to intromett
+with, uplift and receive, the ſaid Eſcheat goods of ſuch as ſhall be
+convict, or declared Fugitives in manner foreſaid, to be applyed for
+Defray<g ref="char:EOLhyphen"/>ing any part of the expenſes of the ſaids Commiſſioners, and
+members of Court in the Execution of this Commiſſion, with Power to them to
+nominat and ap<g ref="char:EOLhyphen"/>point Collectors of the ſame. And for rendering the Decreets
+and Sentences of the ſaids Commiſſioners more firm and effectual to the
+obtainers thereof, &amp; for their further incouragement, to adminiſter
+Juſtice to Our good Subjects, and to ſecure the peace of the Countrey,
+within their reſpective bounds; It is Our expreſs Will and Pleaſure, and
+we ſtrictly require and Command the Decreets, <pb n="4" facs="tcp:178745:4"/>Acts, and
+Sentences, to be pronounced by them in manner foreſaid, to be put in all due
+and lawful Execution, Prohibiting hereby and diſcharging the Lords of Our
+Privy Council, Lords of Seſſion,, and Lords of Juſticiary, to paſs any
+Bills of Advocation upon any ground or pretence whatſoever; As alſo
+prohi<g ref="char:EOLhyphen"/>biting and diſcharging the ſaids Lords of Privy Council &amp; of
+Seſſion, and Juſti<g ref="char:EOLhyphen"/>ciary, to Paſs any Bills of Suſpenſion or to
+grant any Siſts of Procedure, and Execution of the ſaids Decreets or
+Sentences upon any ground or pretence what<g ref="char:EOLhyphen"/>ſoever, unleſs the ſaid
+Suſpenſion or Siſt of execution be firſt cognoſced, or granted by a
+<hi>Quorum</hi> of the Council Signeing the ſame, and if notwithſtand<g ref="char:EOLhyphen"/>ing
+the Suſpenſion or ſiſt, the Decreet be ſuſtained, and the Letters
+found order<g ref="char:EOLhyphen"/>ly proceeded, the Suſpender ſhall alſo be decerned at leaſt
+in a third part more than the Sums charged for, with what more the Lords of
+Privy Council ſhall Judge reaſonable to the Charger for his Expences and
+Damnage, and for the more effectual rootting out, of all Thifts and Roberies,
+We do allow and ap<g ref="char:EOLhyphen"/>prove, that at their firſt meeting or any other Meeting or
+Meetings they ſhall judge convenient; They Summond before them all Heretors,
+Liferenters, Wod<g ref="char:EOLhyphen"/>ſetters, preſent Poſſeſſors of any Lands or
+Eſtate within the Highlands of the foreſaid Shires, &amp; exact from them
+true liſts of all men above twelve years of Age that live upon their Lands,
+whom upon Citation they are to preſent when cal<g ref="char:EOLhyphen"/>led, for whom they are to
+give Bond and Caution conform to the Acts of Par<g ref="char:EOLhyphen"/>liament: And that theſe for
+whom no Security can be had may be diſpoſed of by the Commiſſioners or
+their <hi>Quorum</hi> aforeſaid, ſo as they may be no more a trouble to the
+Peace of the Countrey, and if any of the ſaids Heretors and o<g ref="char:EOLhyphen"/>thers
+above-mentioned appear not or refuſe to give Bond and Caution and liſts or
+give up untrue ones, then and in that caſe We ordain that either they be
+pro<g ref="char:EOLhyphen"/>ceeded againſt as abſents, or as Harbourers and Reſetters of Thieves
+&amp; out-laws and We hereby appoint the firſt general Metting of the ſaids
+Commiſſi<g ref="char:EOLhyphen"/>oners to be at <hi>Eorfar</hi> upon the firſt
+<hi>Thurſday</hi> of <hi>June</hi> next to come, And there to hold Court,
+Adjourn and appoint new dyets as they ſhall find expedient; And to the effect
+their Meetings may be the more Exact and better calculat for the diſpatch of
+buſineſs; But] with<g ref="char:EOLhyphen"/>out derogation of the power given to the ſaids
+Commiſſioners to ad<g ref="char:EOLhyphen"/>journe their Meetings as they ſhall think fit, We
+hereby appoint on of the Commiſſioners above to be Conveener of the reſt
+in each diſtrict, when any occaſion falls out which requires their Meetings
+before the day to which they were adjourned, according to the Diviſion
+after-mentioned, <hi>viz.</hi> For the North Diſtrict including the Shires of
+<hi>Caitneſs, Sutherland, Roſs, Inverneſs, Cro<g ref="char:EOLhyphen"/>marty, Nairn, Elgine,
+Bamff, Aberdeen,</hi> and <hi>Kincardine,</hi> The Earl of <hi>Fin<g ref="char:EOLhyphen"/>later,</hi>
+and in his abſence the Laird of <hi>Grant,</hi> And for the middle
+diſtrict, in<g ref="char:EOLhyphen"/>cluding the Shires of <hi>Forfar, Perth, Stirling,</hi> and
+<hi>Dumbartoun;</hi> The Earl of <hi>Tullibardine,</hi> and in his abſence
+the Lord <hi>Ruthven.</hi> And for the Weſt diſtrict in<g ref="char:EOLhyphen"/>cluding the Shires
+of <hi>Argyle, Tarbat,</hi> and <hi>Bute,</hi> The Earl of <hi>Argyle,</hi> and
+in his abſence Mr. <hi>John Campbel</hi> Sheriff-Deput of <hi>Argile;</hi>
+Which Conveeners are to appoint the moſt convenient times and places for the
+reſt of the Commiſſioners, or at leaſt a <hi>Quorum</hi> of them to
+meet at: Hereby alſo requiring ſuch as are ſo called to give attendance
+and not to be abſent unleſs upon relevant Grounds, and whereof they are to
+cer<g ref="char:EOLhyphen"/>tifie the Conveeners under the pain of loſing their Share of the truſt
+and autho<g ref="char:EOLhyphen"/>rity, hereby committed unto them, And ſicklike nominates and
+appoints the foreſaid Conveeners or major part of them to be Conveeners, for
+calling to<g ref="char:EOLhyphen"/>gether the general Meeting of the Commiſſioners of the whole
+Diſtricts, once or twice a year, or oftner as they ſhall think
+neceſſary at ſuch Times and Places as they ſhall think moſt proper
+and convenient, allowing alſo that notwith<g ref="char:EOLhyphen"/>ſtanding of the Diviſion
+hereby made in particular Diſtricts, That all perſons named in this
+Commiſſion have Right and Power to act as Commiſſioners and 
+<pb n="6" facs="tcp:178745:5"/>and ſit in any juſtice Court holden by vertue hereof, as
+weel without the Di<g ref="char:EOLhyphen"/>ſtrict where they live as within the ſame, as alſo
+with Power to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners or any of them in caſe of
+Convocations, or open Depredations, to call and require Our Leidges to their
+aſſiſtance, and give Warrand to purſue all Fugitives within the ſaid
+Shires, for apprehending them and preſenting them to Juſtice, as alſo to
+require all Sheriffs, Stewarts, Baillies of Royallities, Regalities and
+Baronies, to be aiding and aſſiſting to them therein as they ſhall be
+requir<g ref="char:EOLhyphen"/>ed be the ſaid Commiſſioners or any one of them for apprehending
+Fugitives and recovering goods, taken by Heirſhips or Depredations, wherein
+they are not to fail as they ſhall be anſwerable upon their Duties and
+Offices, and the ſaid Sheriffs and other Judges ordinary are ordained not
+only to give concurrence and aid to the ſaid Commiſſioners as they
+ſhall be required, But alſo to afford them Priſon-houſes in Burghs, and
+Court-houſes for keeping their Meetings, and upon all occaſions the ſaid
+Sheriffs and Magiſtrates of Burghs Royal are hereby ordained to receive any
+Priſoners, ſent to them by the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners or any one of
+them, with a <hi>mittimus</hi> under their hand for that effect, and keep and
+detaine them in ſure Priſon, untill they be brought unto a le<g ref="char:EOLhyphen"/>gal tryal, or
+diſmiſt by order of a <hi>Quorum</hi> of the ſaids Commiſſioners in
+write And if it ſhould happen that the Fugitives do eſcape out of all the
+fore<g ref="char:EOLhyphen"/>ſaid Shires, in that caſe they are to acquaint the Judges ordinary of
+the Shires to which they have reſorted, who are hereby ordered to apprehend
+them or failzing thereof to purſue them out of their Juriſdiction; And to
+the effect that ſuch Tranſgreſſors may be notourly known: The
+Commiſſioners who ſhall declare any Fugitives, ſhall make Intimation of
+their Names and Deſignations to the Clerks of Our Privy Council, that the
+ſame may be Printed and publiſh<g ref="char:EOLhyphen"/>ed to the Sheriffs of the next adjacent
+Shires to the place where ſuch a Court is holden, and the Sheriffs are to
+cauſe intimat the ſame at the Paroch Churches within their reſpective
+juriſdictions, that no perſon preſume to reſet ſupply or harbour
+them; And We hereby appoint that the Clerks of the reſpective Courts, ſhall
+give account to the Clerks of Privy Council what Perſons are condemned, and
+what Perſons are declared Fugitives, and that twice in the year, once in the
+Month of <hi>May,</hi> and once in the Month of <hi>September.</hi> that the
+Lords of Privy Council may know the Condition of theſe Shires, and what
+diligence the ſaid Commiſſioners uſe in the proſecution of the ſaid
+Com<g ref="char:EOLhyphen"/>miſſion; and further for defraying the Commiſſioners Charges we
+allow them to decerne for and to add a tenth part to each Lybel and Decreet
+pronun<g ref="char:EOLhyphen"/>ced by them, which Tenth-Part is to be payed to the ſaid
+Commiſſioners by the ſaids Defenders if they ſuccumbe in the Cauſe,
+and by the purſuers in caſe the Defender be aſſoilzied, And We hereby
+require the Commanders of our Forces, and Governour of <hi>Inverlochie</hi> and
+Commandants of parti<g ref="char:EOLhyphen"/>cular Gariſons or any other Officers of our Forces, to
+give parties of Horſe and Foot, from time to time to attend the ſaid Courts
+as they ſhall be advertiſed by the Commiſſioners that are to hold them,
+As alſo, the ſaid Governour or any other Officer of the ſaid Forces, are
+hereby required to give concurrance at Poyndings, and to convey the ſaid
+Goods ſo poynded out of Danger &amp; Defor<g ref="char:EOLhyphen"/>cement and that without any
+reward: As alſo, to apprehend and ſeize any per<g ref="char:EOLhyphen"/>ſon or Perſons
+contained in liſts, to be given in to them by the ſaid Com<g ref="char:EOLhyphen"/>miſſioners.
+And likeways, We do hereby appoint Collonel <hi>John Hill</hi> and Leutennant
+Collonel <hi>Forbes</hi> his Deputy Governour at <hi>Inverlochie,</hi> and
+failzing of them, the perſons ſucceeding to them in the ſaids Charges, to
+be Mem<g ref="char:EOLhyphen"/>bers of this preſent Commiſſion, allowing the ſaid Governour to
+diſcharge the duty of a Conveener, if need be: And for making diſtinction
+betwixt peaceable and honeſt Men, and Thieves and Broken perſons, no
+perſon living within any part of the <hi>Highlands</hi> of the ſaid Shires,
+are to bring any Cows, Horſe, or other Beſtial to
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a Teſtificat of a Landed-man 
+<pb n="7" facs="tcp:178745:6"/>in Write, bearing the Number of the Beaſts, and Name and
+Place of Reſidence of the Drover, and atteſting that they are leelly come,
+under the pain of Seiſure and Confiſcation thereof as ſtolen Goods, and
+if ſome ſuch Teſtificat ſhould be granted, and afterwards it ſhould
+be found that any of the ſaids Beaſts ſhould be ſtolen, the Landed-man
+Atteſter ſhall be lyable as if he were guilty in ſo far as ſhall be
+extended to Reſtitution and Damage, and what the Law provides without any
+favour, and Maſters and Magiſtrats who have power of Mercats, and Clerks
+thereof, are hereby diſcharged to permit any Beaſts to be Sold or Bought at
+any Mercats, till the Seller deliver unto him his ſaid Certificat; With
+Certification that the Magiſtrats, Maſter or Clerk, ſhall be lyable for
+any Beaſts ſo ſold, and whereof the Clerk keeps not the Cer<g ref="char:EOLhyphen"/>tificat
+aforeſaid, as if they were Airt and Part of the Theft themſelves, in ſo
+far as extends to Reſtitution as ſaid is: And its hereby Declared, that it
+ſhall not be lawful to any perſon in the <hi>Highlands,</hi> to travel with
+Arms from the ordinar place of their Reſidence, without a paſs or
+Certificat from the Sheriff or his Deputs, or from a Juſtice of Peace, or any
+of the ſaids Commiſſioners, or Miniſters within the Bounds of the Place
+from which he is to travel, bearing the occaſion thereof which is to have a
+particular Date, and to continue only for that Journey, with Power to the
+ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any of them or any having their warrand to
+ſeize upon, ap<g ref="char:EOLhyphen"/>prehend and impriſon all ſuch perſons wanting paſſes
+as a foreſaid as Thieves, Sorners and Vagabounds; till they find Caution for
+their good behaviour, and anſwer to any accuſation that can be brought
+againſt them. And it is likeways hereby declared that this Our Commiſſion
+ſhall be no ways prejudicial to the Right and Juriſdiction of any Sheriffs,
+Stewarts and Bailies of Royeal<g ref="char:EOLhyphen"/>lities, and Lords and Baillies of Regalities,
+who all and ilk an of them may pro<g ref="char:EOLhyphen"/>ceed notwithſtanding thereof, againſt
+Perſons guilty of thift, &amp; the receipt of of Thift, and other Crimes
+aforeſaid in the ſame way and manner as they were formerly in uſe to do
+conform to the Laws if they be the firſt attachers and ſhall prevent the
+ſaid Commiſſioners in diligence. And further, if it ſhall be found
+needfull by the Perſons already named in this Commiſſion, that any others
+be added unto them for their aſſiſtance, We do hereby impower, the Lords
+of Our Privy Council, upon application made to them by a <hi>Quorum</hi> of the
+Commiſſioners of any of the three Diſtricts, to ad to this preſent
+Nomination, ſuch perſon or perſons as the ſaid Court Commiſſioners
+of the ſaid Diſtrict: And this Our Commiſſion is to continue and endure
+to the laſt day of <hi>December</hi> 1699 years, unleſs the ſame ſhall
+be Revocked or Recalled by Us before that time; In Teſtimony where<g ref="char:EOLhyphen"/>of, Our
+Great Seal is hereto appended.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Kenſingtoun 
+<date>
+                     <hi>the Thirty day of</hi> March 1697, <hi>and of Our Reign
+  the Eight Year.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of
+<hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent Majeſtie,
+<hi>Anno DOM.</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
